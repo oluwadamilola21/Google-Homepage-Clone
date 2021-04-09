@@ -52,6 +52,7 @@ input {
 }
 
 .offer a {
+    padding: 5px;
     color: blue;
 }
 footer {
